@@ -68,9 +68,11 @@ header nav ul li a {
 .page1 {
   background: #1E1E1E;
 }
-
 .page1 .general {
   background-image: url("assets/img/graphic-designers-meeting.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   width: 100%;
   height: 100vh;
 }
